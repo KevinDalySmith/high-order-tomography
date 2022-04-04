@@ -1,0 +1,7 @@
+sphinx-argparse
+cvxpy
+networkx
+numpy
+PyMoments
+scipy
+tqdm
