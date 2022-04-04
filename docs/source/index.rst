@@ -34,5 +34,5 @@ not be used in a production setting. We make no guarantees regarding its accurac
 
    installation
    getting-started
-   hot
+   commands
    copyright
